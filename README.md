@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **JavaScript, Html, CSS and GameDev.**
 
+- 📫 How to reach me **swayamthanekar990@gmail.com**
+
 - ⚡ Fun fact **I'm Immortal 3 in Valorant and LE in Csgo.**
 
 <h3 align="left">Connect with me:</h3>
