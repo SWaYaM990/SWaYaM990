@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swayam Thanekar</h1>
 <h3 align="center">I'm an Open-Source enthusiast. I'm currently pursuing my B.E in electronics engineering. I'm passionate about WebDev and GameDev.</h3>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/pw9ZsUdsEYgAAAAj/capoo-blue-cat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayam990&label=Profile%20views&color=0e75b6&style=flat" alt="swayam990" /> </p>
 
